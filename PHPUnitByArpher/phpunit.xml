@@ -1,0 +1,8 @@
+<phpunit>
+  <testsuites>
+    <testsuite name="money">
+      <file>tests/CartTest.php</file>
+      <file>tests/ProductTest.php</file>
+    </testsuite>
+  </testsuites>
+</phpunit>

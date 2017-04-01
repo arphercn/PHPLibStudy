@@ -1,0 +1,7 @@
+<phpunit>
+  <testsuites>
+    <testsuite name="join">
+      <file>tests/Join3Test.php</file>
+    </testsuite>
+  </testsuites>
+</phpunit>
